@@ -2,6 +2,7 @@
 
 I’m a Full Stack Engineer based in Chicago with experience building backend services, web apps and data pipelines. I work mostly in Java and Python, using Spring Boot, Docker, AWS and NoSQL databases. I enjoy turning messy real world problems into clean, reliable systems, and I’m always looking to learn new tools and build things people actually use.
 
+## Connect With Me 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RishiDShah)   
 
 
